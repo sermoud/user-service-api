@@ -8,6 +8,18 @@ app.get("/", (req, res) =>
       name: "Bob",
       email: "bob@gmail.com",
     },
+    {
+      name: "Alice",
+      email: "alice@hotmail.com",
+    },
+    {
+      name: "Jake",
+      email: "jake@yahoo.com",
+    },
+    {
+      name: "Maria",
+      email: "maria@yahoo.com.uk",
+    }
   ])
 );
 
